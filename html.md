@@ -6,4 +6,8 @@
   HTML5 conventions
 
 * [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)<br>
-  Lists all valid HTML tags
+  List of all valid HTML tags
+
+* [HTML elements attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)<br>
+  List of all valid HTML attributes
+
