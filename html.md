@@ -9,4 +9,9 @@
 
 * [HTML elements attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)<br>
   List of all valid HTML attributes
+
+* [Inline Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements)<br>
+  List of inline elements
   
+* [Block Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)<br>
+  List of block elements

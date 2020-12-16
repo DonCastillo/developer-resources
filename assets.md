@@ -1,4 +1,4 @@
-# Asets
+# Assets
 
 ### Fonts
 * [Google Fonts](https://fonts.google.com/)
@@ -13,3 +13,7 @@
 
 ### Images
 * [Pexels](https://www.pexels.com/)
+
+### Text
+* [Random Phrases](https://www.michaelfogleman.com/phrases/)
+* [Lorem Ipsum](https://www.lipsum.com/)

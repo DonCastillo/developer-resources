@@ -1,0 +1,38 @@
+# CSS
+
+### CSS Reference Links
+* [CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)<br>
+  List of CSS properties and values
+
+### Flexbox
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)<br>
+  With code snippets and visuals
+* [MDN Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)<br>
+  More detailed explanation of flexbox
+
+### Grid
+* [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)<br>
+  With code snippets and visuals
+* [MDN Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)<br>
+  More detailed explanation of grid
+
+### Filter
+* [MDN Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)<br>
+  More detailed explanation of filter
+* [A Complete Guide to Filter](https://css-tricks.com/almanac/properties/f/filter/)<br>
+  With code snippets and visuals
+* [CSS Filter Editor](https://codepen.io/stoumann/pen/MWeNmyb)
+
+### Gradient
+* [CSS Gradient Editor](https://cssgradient.io/)
+
+### Color Picker
+* [Google Color Picker](https://www.google.com/search?q=color+picker)
+
+### Box Shadow
+* [CSS Box Shadow Editor](https://www.cssmatic.com/box-shadow)
+
+### Border Radius
+* [CSS Box Radius Editor](https://www.cssmatic.com/border-radius)
+* [Fancy Border Radius Editor](https://9elements.github.io/fancy-border-radius/)<br>
+  Can fully control the radius

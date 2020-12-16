@@ -8,4 +8,4 @@
 * [References and Tools](/site-optimization.md)
 
 ### Assets
-* [Fonts, Icons, and Images](/assets.md)
+* [Fonts, Icons, Images, and Text](/assets.md)
