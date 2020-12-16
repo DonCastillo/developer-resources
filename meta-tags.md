@@ -29,7 +29,8 @@
 <meta http-equiv="Expires" content="0">
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Cache-Control" content="no-cache">
-``` html
+```
+
 
 ### OpenGraph Meta Tags
 ``` html
@@ -39,13 +40,10 @@
 <meta name="og:image" content="http://ia.media-imdb.com/rock.jpg"/>
 <meta name="og:site_name" content="IMDb"/>
 <meta name="og:description" content="A group of U.S. Marines, under command of..."/>
-
 <meta name="fb:page_id" content="43929265776" />
-
 <meta name="og:email" content="me@example.com"/>
 <meta name="og:phone_number" content="650-123-4567"/>
 <meta name="og:fax_number" content="+1-415-123-4567"/>
-
 <meta name="og:latitude" content="37.416343"/>
 <meta name="og:longitude" content="-122.153013"/>
 <meta name="og:street-address" content="1601 S California Ave"/>
@@ -53,10 +51,8 @@
 <meta name="og:region" content="CA"/>
 <meta name="og:postal-code" content="94304"/>
 <meta name="og:country-name" content="USA"/>
-
 <meta property="og:type" content="game.achievement"/>
 <meta property="og:points" content="POINTS_FOR_ACHIEVEMENT"/>
-
 <meta property="og:video" content="http://example.com/awesome.swf" />
 <meta property="og:video:height" content="640" />
 <meta property="og:video:width" content="385" />
@@ -65,10 +61,120 @@
 <meta property="og:video:type" content="video/mp4" />
 <meta property="og:video" content="http://example.com/fallback.vid" />
 <meta property="og:video:type" content="text/html" />
-
 <meta property="og:audio" content="http://example.com/amazing.mp3" />
 <meta property="og:audio:title" content="Amazing Song" />
 <meta property="og:audio:artist" content="Amazing Band" />
 <meta property="og:audio:album" content="Amazing Album" />
 <meta property="og:audio:type" content="application/mp3" />
+```
+
+
+### Custom Meta Tags
 ``` html
+<meta name="google-analytics" content="#"/>
+<meta name="disqus" content="#"/>
+<meta name="uservoice" content="#"/>
+<meta name="mixpanel" content="#"/>
+```
+
+
+### Company/Service Meta Tags
+#### ClaimID
+``` html
+<meta name="microid" content="YOUR MICRO ID" />
+```
+
+#### Apple Meta Tags
+``` html
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta content="yes" name="apple-touch-fullscreen" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width = 320 initial-scale = 2.3 user-scalable = no">
+```
+
+#### Internet Explorer Meta Tags
+``` html
+<meta http-equiv="Page-Enter" content="RevealTrans(Duration=2.0Transition=2)" />
+<meta http-equiv="Page-Exit" content="RevealTrans(Duration=3.0Transition=12)" />
+<meta name="mssmarttagspreventparsing" content="true">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="msapplication-starturl" content="http://blog.reybango.com/about/"/>
+<meta name="msapplication-window" content="width=800;height=600"/>
+<meta name="msapplication-navbutton-color" content="red"/>
+<meta name="application-name" content="Rey Bango Front-end Developer"/>
+<meta name="msapplication-tooltip" content="Launch Rey Bango's Blog"/>
+<meta name="msapplication-task" content="name=About;action-uri=/about/;icon-uri=/images/about.ico" />
+<meta name="msapplication-task" content="name=The Big List;action-uri=/the-big-list-of-javascript-css-and-html-development-tools-libraries-projects-and-books/;icon-uri=/images/list_links.ico" />
+<meta name="msapplication-task" content="name=jQuery Posts;action-uri=/category/jquery/;icon-uri=/images/jquery.ico" />
+<meta name="msapplication-task" content="name=Start Developing;action-uri=/category/javascript/;icon-uri=/images/script.ico" />
+<link rel="shortcut icon" href="/images/favicon.ico" />
+```
+
+#### TweetMeme Meta Tags
+``` html
+<meta name="tweetmeme-title" content="Retweet-Button-Explained" />
+```
+
+#### Blog Catalog Meta Tags
+``` html
+<meta name="blogcatalog" />
+```
+
+#### Rails Meta Tags
+``` html
+<meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="/bZVwvomkAnwAI1Qd37lFeewvpOIiackk9121fFwWwc="/>
+```
+
+#### Apple Tags
+``` html
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+<meta name= "viewport" content = "width = 320 initial-scale = 2.3 user-scalable = no">
+<meta name= "viewport" content = "width = device-width">
+<meta name = "viewport" content = "initial-scale = 1.0">
+<meta name = "viewport" content = "initial-scale = 2.3 user-scalable = no">
+<link rel="apple-touch-icon" href="touch-icon-iphone.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="touch-icon-ipad.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="touch-icon-iphone4.png" />
+<link rel="apple-touch-startup-image" href="/startup.png">
+<link rel="apple-touch-icon" type="image/png" href="/apple-touch-icon.png" />
+```
+
+### HTML Link Tags
+``` html
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com" />
+<link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+<link rel="fluid-icon" type="image/png" href="/fluid-icon.png" />
+<link rel="me" type="text/html" href="http://google.com/profiles/YOUR PROFILE NAME"/>
+<link rel='shortlink' href='' />
+<link rel='archives' title='May 2003' href='' />
+<link rel='index' title='DeWitt Clinton' href='' />
+<link rel='start' title='Pattern Recognition 1' href='' />
+<link rel='prev' title='OpenSearch and OpenID?  A sure way to get my attention.' href='' />
+<link rel='next' title='Not blog' href='' />
+<link rel="search" href="/search.xml" type="application/opensearchdescription+xml" title="Viatropos" />
+<link rel="self" type="application/atom+xml" href=""/>
+<link rel="first" href=""/>
+<link rel="next" href="?page=4"/>
+<link rel="previous" href="?page=2"/>
+<link rel="last" href="?page=147"/>
+<link rel='shortlink' href='?p=43625' />
+<link rel="canonical" href="2010/06/9-things-to-do-before-entering-social-media.html" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<link rel="pingback" href="xmlrpc.php" />
+<link media="only screen and (max-device-width: 480px)" href="" type="text/css" rel="stylesheet" />
+```
+
+
+### Twitter Cards Meta Tags
+Compelete [reference](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/markup)
+``` html
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="#url">
+<meta property="twitter:title" content="#title">
+<meta property="twitter:description" content="#description">
+<meta property="twitter:image" content="#">
+```
