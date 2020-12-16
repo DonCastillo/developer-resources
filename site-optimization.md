@@ -17,12 +17,19 @@
 ### Schema
 * [Schema Reference](https://schema.org/)<br>
   Schema adds more info about the webpage content on the web 
-* [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/)<br>
+* [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/)
 * [Rich Results Test](https://search.google.com/test/rich-results)<br>
   Test the validity of a webpage schema
 
 ### Robots.txt
 * [Reference](https://developers.google.com/search/docs/advanced/robots/create-robots-txt)
+
+### Image Optimization
+* [TinyPNG](https://tinypng.com/)<br>
+  Compress up to 20 images, maximum of 5 MB each
+* [ResizeImage](https://resizeimage.net/)<br>
+  Resize and compress images
+
 
 
 
