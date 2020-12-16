@@ -1,7 +1,6 @@
 # HTML
 
-### HTML Structure and Convention
-
+### HTML Reference Links
 * [html.spec.whatwg](https://html.spec.whatwg.org/)<br>
   HTML5 conventions
 
@@ -11,3 +10,9 @@
 * [HTML elements attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes)<br>
   List of all valid HTML attributes
 
+### Meta Tags
+* Must-have meta tags
+  * Define keywords for search engines
+    `<meta name="keywords" content="HTML, CSS, JavaScript">`
+  * Define keywords for search engines
+    `<meta name="keywords" content="HTML, CSS, JavaScript">`
