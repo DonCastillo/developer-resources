@@ -3,6 +3,7 @@
 ### References and Documentation
 * [HTML](/html.md)
 * [CSS](/css.md)
+* [JS](/js.md)
 
 ### Site Optimization
 * [References and Tools](/site-optimization.md)

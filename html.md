@@ -15,3 +15,5 @@
   
 * [Block Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)<br>
   List of block elements
+
+* [Entity List](https://www.freeformatter.com/html-entities.html)
