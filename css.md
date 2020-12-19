@@ -36,3 +36,9 @@
 * [CSS Box Radius Editor](https://www.cssmatic.com/border-radius)
 * [Fancy Border Radius Editor](https://9elements.github.io/fancy-border-radius/)<br>
   Can fully control the radius
+
+### Font Stack
+* [CSS Font Stack](https://www.cssfontstack.com/)
+
+### Color Scheme
+* [Coolors](https://coolors.co/palettes/trending)
