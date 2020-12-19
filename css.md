@@ -42,3 +42,12 @@
 
 ### Color Scheme
 * [Coolors](https://coolors.co/palettes/trending)
+
+### CSS Selectors and Combinators
+* [Cheatsheet](https://appletree.or.kr/quick_reference_cards/CSS/CSS%20selectors%20cheatsheet.pdf)
+
+### Pseudo Classes
+* [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes#Alphabetical_index)
+
+### Pseudo Elements
+* [MDN References](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements#Index)
