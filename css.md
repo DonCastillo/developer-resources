@@ -51,3 +51,13 @@
 
 ### Pseudo Elements
 * [MDN References](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements#Index)
+
+### Specificity
+* [Specificity Calculator](https://specificity.keegan.st/)
+
+### Transitions
+* [Different Ease Functions](https://easings.net/)
+
+### Transform
+* [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+* 
