@@ -1,15 +1,23 @@
 # CSS
 
-| Contents |
-| :---     |
-| [CSS Reference Links](#css-reference-links) |
-| [Flexbox](#flexbox) |
-| [Grid](#grid) |
-
-
-
 ### CSS Reference Links
 * [CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - List of CSS properties and values
+  
+
+| Contents |
+| :---     |
+| [Border Radius](#border-radius) |
+| [Box Shadow](#box-shadow) |
+| [Color Picker](#color-picker) |
+| [Color Scheme](#color-scheme) |
+| [Filter](#filter) |
+| [Flexbox](#flexbox) |
+| [Font Stack](#font-stack) |
+| [Gradient](#gradient) |
+| [Grid](#grid) |
+| [Selectors and Combinators](#selectors-and-combinators) |
+
+
 
 ### Flexbox
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - With code snippets and visuals
@@ -43,7 +51,7 @@
 ### Color Scheme
 * [Coolors](https://coolors.co/palettes/trending)
 
-### CSS Selectors and Combinators
+### Selectors and Combinators
 * [Cheatsheet](https://appletree.or.kr/quick_reference_cards/CSS/CSS%20selectors%20cheatsheet.pdf)
 
 ### Pseudo Classes
