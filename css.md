@@ -15,7 +15,14 @@
 | [Font Stack](#font-stack) |
 | [Gradient](#gradient) |
 | [Grid](#grid) |
+| [Libraries and Code Snippets](#libraries-and-code-snippets) |
+| [Media Query](#media-query) |
+| [Pseudo Classes](#pseudo-classes) |
+| [Pseudo Elements](#pseudo-elements) |
 | [Selectors and Combinators](#selectors-and-combinators) |
+| [Specificity](#specificity) |
+| [Transform](#transform) |
+| [Transitions](#transitions) |
 
 
 
