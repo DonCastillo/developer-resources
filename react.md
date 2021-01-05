@@ -7,3 +7,4 @@
 ### Helpful Packages
 * [Radium](https://www.npmjs.com/package/radium)
   Manage inline css on React elements
+* [CSS Modules](https://github.com/css-modules/css-modules)
