@@ -78,6 +78,3 @@
 
 ### Media Query
 * [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
-
-### Libraries and Code Snippets
-* [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - Resets all the default CSS styles

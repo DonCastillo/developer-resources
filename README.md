@@ -15,6 +15,7 @@
 * [Animate.css](https://animate.style/) - generate css animations
 * [AOS](https://michalsnik.github.io/aos/) - animate on scroll
 * [JQuery](/frameworks/jquery.md)
+* [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - Resets all the default CSS styles
 * [Slick](https://kenwheeler.github.io/slick/) - carousel library
 
 ### Runtime Environment
@@ -25,9 +26,9 @@
 * [Composer](https://getcomposer.org/) - for PHP
 
 ### Packages
+* [Color](https://www.npmjs.com/package/color) - color conversion
 * [CSS Modules](https://github.com/css-modules/css-modules)
-* [Radium](https://www.npmjs.com/package/radium) 
-  - Manage inline css on React elements
+* [Radium](https://www.npmjs.com/package/radium) - manage inline css on React elements
 
 ### Site Generators
 * [Hugo](https://gohugo.io/) - written in Go Language
