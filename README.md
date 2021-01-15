@@ -28,6 +28,8 @@
 ### Packages
 * [Color](https://www.npmjs.com/package/color) - color conversion
 * [CSS Modules](https://github.com/css-modules/css-modules)
+* [Embedded JS Templating](https://ejs.co/) - templating in JS
+* [Nodemon](https://www.npmjs.com/package/nodemon) - automatically restarts server when files are changed
 * [Radium](https://www.npmjs.com/package/radium) - manage inline css on React elements
 
 ### Site Generators
