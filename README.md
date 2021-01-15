@@ -24,6 +24,11 @@
 * [NPM](https://www.npmjs.com/) - for JS
 * [Composer](https://getcomposer.org/) - for PHP
 
+### Packages
+* [CSS Modules](https://github.com/css-modules/css-modules)
+* [Radium](https://www.npmjs.com/package/radium) 
+  - Manage inline css on React elements
+
 ### Site Generators
 * [Hugo](https://gohugo.io/) - written in Go Language
 
