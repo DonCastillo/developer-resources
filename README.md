@@ -31,6 +31,7 @@
 * [CSS Modules](https://github.com/css-modules/css-modules)
 * [Embedded JS Templating](https://ejs.co/) - templating in JS
 * [Method Override](http://expressjs.com/en/resources/middleware/method-override.html) - use http verbs like PUT or DELETE in places where the client doesn't support it.
+* [Mongoose](https://mongoosejs.com/) - mongodb object modeling for node.js
 * [Nodemon](https://www.npmjs.com/package/nodemon) - automatically restarts server when files are changed
 * [Radium](https://www.npmjs.com/package/radium) - manage inline css on React elements
 * [UUID](https://www.npmjs.com/package/uuid) - generates ids
