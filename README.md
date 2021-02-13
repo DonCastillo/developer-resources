@@ -15,6 +15,7 @@
 * [Animate.css](https://animate.style/) - generate css animations
 * [AOS](https://michalsnik.github.io/aos/) - animate on scroll
 * [JQuery](/frameworks/jquery.md)
+* [Method Override](http://expressjs.com/en/resources/middleware/method-override.html) - use http verbs like PUT or DELETE in places where the client doesn't support it.
 * [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - Resets all the default CSS styles
 * [Slick](https://kenwheeler.github.io/slick/) - carousel library
 
@@ -31,6 +32,7 @@
 * [Embedded JS Templating](https://ejs.co/) - templating in JS
 * [Nodemon](https://www.npmjs.com/package/nodemon) - automatically restarts server when files are changed
 * [Radium](https://www.npmjs.com/package/radium) - manage inline css on React elements
+* [UUID](https://www.npmjs.com/package/uuid) - generates ids
 
 ### Site Generators
 * [Hugo](https://gohugo.io/) - written in Go Language
