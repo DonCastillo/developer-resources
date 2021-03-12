@@ -33,6 +33,7 @@
 * [Laravel Excel](https://docs.laravel-excel.com/3.1/getting-started/installation.html) - adds import/export functionality to a laravel project
 * [Laravel Tinker](https://laravel.com/docs/8.x/artisan#tinker) - allows use of php artisan tinker command in laravel/lumen
 * [Lumen Vendor Publish](https://github.com/laravelista/lumen-vendor-publish) - allows use of vendor:publish command in lumen
+* [Material-UI](https://material-ui.com/) - React UI Framework
 * [Method Override](http://expressjs.com/en/resources/middleware/method-override.html) - use http verbs like PUT or DELETE in places where the client doesn't support it.
 * [Mongoose](https://mongoosejs.com/) - mongodb object modeling for node.js
 * [Nodemon](https://www.npmjs.com/package/nodemon) - automatically restarts server when files are changed
