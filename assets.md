@@ -18,3 +18,4 @@
 ### Text
 * [Random Phrases](https://www.michaelfogleman.com/phrases/)
 * [Lorem Ipsum](https://www.lipsum.com/)
+* [Hipster Ipsum](https://hipsum.co/)
