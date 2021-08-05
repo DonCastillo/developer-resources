@@ -1,0 +1,5 @@
+1. cd to .ssh
+2. ssh-add shaunavon
+3. ssh root@host_ip_address
+4. root@shaunavonBT df (disk file)
+5. root@shaunavonBT docker system prune (disk file)
