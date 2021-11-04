@@ -14,6 +14,7 @@
 ### Libraries
 * [Animate.css](https://animate.style/) - generate css animations
 * [AOS](https://michalsnik.github.io/aos/) - animate on scroll
+* [Glightbox](https://biati-digital.github.io/glightbox/) - image and video gallery modal
 * [JQuery](/frameworks/jquery.md)
 * [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - Resets all the default CSS styles
 * [Slick](https://kenwheeler.github.io/slick/) - carousel library
