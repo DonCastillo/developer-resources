@@ -12,10 +12,12 @@
 * [Express](https://expressjs.com/) - framework for Node.js
 
 ### Libraries
+* [Actual](https://github.com/dreamerslab/jquery.actual) - determine dimension of a hidden element
 * [Animate.css](https://animate.style/) - generate css animations
 * [AOS](https://michalsnik.github.io/aos/) - animate on scroll
 * [Glightbox](https://biati-digital.github.io/glightbox/) - image and video gallery modal
 * [JQuery](/frameworks/jquery.md)
+* [Mmenu](https://mmenujs.com/) - mobile menu
 * [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - Resets all the default CSS styles
 * [Slick](https://kenwheeler.github.io/slick/) - carousel library
 
